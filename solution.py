@@ -1,4 +1,3 @@
-from tkinter.tix import Tree
 import pandas as pd
 
 cerebra_label_details = pd.read_csv('CerebrA_LabelDetails.csv')
